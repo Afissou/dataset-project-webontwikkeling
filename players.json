@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "TenZ",
+    "description": "Tyson 'TenZ' Ngo is a Canadian Valorant professional known for his insane mechanical aim and aggressive duelist playstyle.",
+    "age": 23,
+    "isActive": true,
+    "birthDate": "2001-05-05",
+    "imageUrl": "https://example.com/images/tenz.jpg",
+    "role": "Duelist",
+    "hobbies": ["aim training", "streaming", "anime"],
+    "teamId": 101,
+    "team": {
+      "id": 101,
+      "name": "Sentinels",
+      "region": "Americas",
+      "founded": 2020,
+      "isActive": true,
+      "logoUrl": "https://example.com/images/sentinels_logo.png"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Boaster",
+    "description": "Jake 'Boaster' Howlett is the in-game leader for Fnatic, famous for his tactical mind and energetic personality.",
+    "age": 29,
+    "isActive": true,
+    "birthDate": "1995-05-25",
+    "imageUrl": "https://example.com/images/boaster.jpg",
+    "role": "Controller",
+    "hobbies": ["strategy games", "fitness", "content creation"],
+    "teamId": 102,
+    "team": {
+      "id": 102,
+      "name": "Fnatic",
+      "region": "EMEA",
+      "founded": 2004,
+      "isActive": true,
+      "logoUrl": "https://example.com/images/fnatic_logo.png"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Derke",
+    "description": "Nikita 'Derke' Sirmitev is a star duelist for Fnatic, known for his explosive entries and clutch potential.",
+    "age": 21,
+    "isActive": true,
+    "birthDate": "2003-02-06",
+    "imageUrl": "https://example.com/images/derke.jpg",
+    "role": "Duelist",
+    "hobbies": ["FPS games", "music", "travel"],
+    "teamId": 102,
+    "team": {
+      "id": 102,
+      "name": "Fnatic",
+      "region": "EMEA",
+      "founded": 2004,
+      "isActive": true,
+      "logoUrl": "https://example.com/images/fnatic_logo.png"
+    }
+  },
+  {
+    "id": 4,
+    "name": "aspas",
+    "description": "Erick 'aspas' Santos is a Brazilian duelist recognized for his sharp aim and aggressive site takes.",
+    "age": 22,
+    "isActive": true,
+    "birthDate": "2002-06-15",
+    "imageUrl": "https://example.com/images/aspas.jpg",
+    "role": "Duelist",
+    "hobbies": ["football", "streaming", "music"],
+    "teamId": 103,
+    "team": {
+      "id": 103,
+      "name": "LOUD",
+      "region": "Americas",
+      "founded": 2019,
+      "isActive": true,
+      "logoUrl": "https://example.com/images/loud_logo.png"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Saadhak",
+    "description": "Matias 'Saadhak' Delipetro is the IGL of LOUD, known for his leadership and flexible playstyle.",
+    "age": 27,
+    "isActive": true,
+    "birthDate": "1997-03-18",
+    "imageUrl": "https://example.com/images/saadhak.jpg",
+    "role": "Initiator",
+    "hobbies": ["analysis", "team strategy", "reading"],
+    "teamId": 103,
+    "team": {
+      "id": 103,
+      "name": "LOUD",
+      "region": "Americas",
+      "founded": 2019,
+      "isActive": true,
+      "logoUrl": "https://example.com/images/loud_logo.png"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Faker",
+    "description": "Not the League player — this is a Valorant pro using the alias 'Faker', known for smart lurks and clutch rounds.",
+    "age": 24,
+    "isActive": true,
+    "birthDate": "2002-01-11",
+    "imageUrl": "https://example.com/images/faker_val.jpg",
+    "role": "Sentinel",
+    "hobbies": ["chess", "coding", "FPS games"],
+    "teamId": 104,
+    "team": {
+      "id": 104,
+      "name": "Paper Rex",
+      "region": "Pacific",
+      "founded": 2020,
+      "isActive": true,
+      "logoUrl": "https://example.com/images/prx_logo.png"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Jinggg",
+    "description": "Wang 'Jinggg' Jing Jie is a hyper-aggressive player from Paper Rex, loved for his fearless entries.",
+    "age": 22,
+    "isActive": true,
+    "birthDate": "2003-07-05",
+    "imageUrl": "https://example.com/images/jinggg.jpg",
+    "role": "Duelist",
+    "hobbies": ["basketball", "ranked grind", "music"],
+    "teamId": 104,
+    "team": {
+      "id": 104,
+      "name": "Paper Rex",
+      "region": "Pacific",
+      "founded": 2020,
+      "isActive": true,
+      "logoUrl": "https://example.com/images/prx_logo.png"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Chronicle",
+    "description": "Timofey 'Chronicle' Khromov is known for his flexibility, able to play almost every role at the highest level.",
+    "age": 24,
+    "isActive": true,
+    "birthDate": "2001-08-16",
+    "imageUrl": "https://example.com/images/chronicle.jpg",
+    "role": "Flex",
+    "hobbies": ["piano", "strategy games", "gym"],
+    "teamId": 102,
+    "team": {
+      "id": 102,
+      "name": "Fnatic",
+      "region": "EMEA",
+      "founded": 2004,
+      "isActive": true,
+      "logoUrl": "https://example.com/images/fnatic_logo.png"
+    }
+  },
+  {
+    "id": 9,
+    "name": "ZmjjKK",
+    "description": "Zheng 'ZmjjKK' Yongkang, also known as KangKang, is a flashy Operator player from China.",
+    "age": 20,
+    "isActive": true,
+    "birthDate": "2004-03-03",
+    "imageUrl": "https://example.com/images/kangkang.jpg",
+    "role": "Duelist",
+    "hobbies": ["streaming", "sniping", "fashion"],
+    "teamId": 105,
+    "team": {
+      "id": 105,
+      "name": "EDward Gaming",
+      "region": "China",
+      "founded": 2013,
+      "isActive": true,
+      "logoUrl": "https://example.com/images/edg_logo.png"
+    }
+  },
+  {
+    "id": 10,
+    "name": "nAts",
+    "description": "Ayaz 'nAts' Akhmetshin is famous for his lurking and sentinel gameplay, always outsmarting opponents.",
+    "age": 23,
+    "isActive": true,
+    "birthDate": "2002-02-01",
+    "imageUrl": "https://example.com/images/nats.jpg",
+    "role": "Sentinel",
+    "hobbies": ["analysis", "hiking", "movies"],
+    "teamId": 101,
+    "team": {
+      "id": 101,
+      "name": "Sentinels",
+      "region": "Americas",
+      "founded": 2020,
+      "isActive": true,
+      "logoUrl": "https://example.com/images/sentinels_logo.png"
+    }
+  }
+]
