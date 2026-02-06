@@ -66,7 +66,7 @@
     "age": 22,
     "isActive": true,
     "birthDate": "2002-06-15",
-    "imageUrl": "https://github.com/Afissou/dataset-project-webontwikkeling/blob/main/images/player-aspas.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Afissou/dataset-project-webontwikkeling/refs/heads/main/images/player-aspas.jpg",
     "role": "Duelist",
     "hobbies": ["football", "streaming", "music"],
     "teamId": 103,
