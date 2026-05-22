@@ -5,7 +5,7 @@
     "region": "Americas",
     "founded": 2020,
     "isActive": true,
-    "logoUrl": "https://example.com/images/sentinels_logo.png"
+    "logoUrl": "https://raw.githubusercontent.com/Afissou/dataset-project-webontwikkeling/refs/heads/main/images/sentinels-logo.png"
   },
   {
     "id": 102,
@@ -13,7 +13,7 @@
     "region": "EMEA",
     "founded": 2004,
     "isActive": true,
-    "logoUrl": "https://example.com/images/fnatic_logo.png"
+    "logoUrl": "https://raw.githubusercontent.com/Afissou/dataset-project-webontwikkeling/refs/heads/main/images/fnatic-logo.png"
   },
   {
     "id": 103,
@@ -21,7 +21,7 @@
     "region": "Americas",
     "founded": 2019,
     "isActive": true,
-    "logoUrl": "https://example.com/images/loud_logo.png"
+    "logoUrl": "https://raw.githubusercontent.com/Afissou/dataset-project-webontwikkeling/refs/heads/main/images/loud-logo.png"
   },
   {
     "id": 104,
@@ -29,7 +29,7 @@
     "region": "Pacific",
     "founded": 2020,
     "isActive": true,
-    "logoUrl": "https://example.com/images/prx_logo.png"
+    "logoUrl": "https://raw.githubusercontent.com/Afissou/dataset-project-webontwikkeling/refs/heads/main/images/paper-rex-logo.png"
   },
   {
     "id": 105,
@@ -37,6 +37,6 @@
     "region": "China",
     "founded": 2013,
     "isActive": true,
-    "logoUrl": "https://example.com/images/edg_logo.png"
+    "logoUrl": "https://raw.githubusercontent.com/Afissou/dataset-project-webontwikkeling/refs/heads/main/images/edward-gaming-logo.png"
   }
 ]

@@ -6,7 +6,7 @@
     "age": 23,
     "isActive": true,
     "birthDate": "2001-05-05",
-    "imageUrl": "https://example.com/images/tenz.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Afissou/dataset-project-webontwikkeling/refs/heads/main/images/player-tenz.png",
     "role": "Duelist",
     "hobbies": ["aim training", "streaming", "anime"],
     "teamId": 101,
@@ -16,7 +16,7 @@
       "region": "Americas",
       "founded": 2020,
       "isActive": true,
-      "logoUrl": "https://example.com/images/sentinels_logo.png"
+      "logoUrl": "https://raw.githubusercontent.com/Afissou/dataset-project-webontwikkeling/refs/heads/main/images/sentinels-logo.png"
     }
   },
   {
@@ -26,7 +26,7 @@
     "age": 29,
     "isActive": true,
     "birthDate": "1995-05-25",
-    "imageUrl": "https://example.com/images/boaster.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Afissou/dataset-project-webontwikkeling/refs/heads/main/images/player-boaster.png",
     "role": "Controller",
     "hobbies": ["strategy games", "fitness", "content creation"],
     "teamId": 102,
@@ -36,7 +36,7 @@
       "region": "EMEA",
       "founded": 2004,
       "isActive": true,
-      "logoUrl": "https://example.com/images/fnatic_logo.png"
+      "logoUrl": "https://raw.githubusercontent.com/Afissou/dataset-project-webontwikkeling/refs/heads/main/images/fnatic-logo.png"
     }
   },
   {
@@ -46,7 +46,7 @@
     "age": 21,
     "isActive": true,
     "birthDate": "2003-02-06",
-    "imageUrl": "https://example.com/images/derke.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Afissou/dataset-project-webontwikkeling/refs/heads/main/images/player-derke.jpeg",
     "role": "Duelist",
     "hobbies": ["FPS games", "music", "travel"],
     "teamId": 102,
@@ -56,7 +56,7 @@
       "region": "EMEA",
       "founded": 2004,
       "isActive": true,
-      "logoUrl": "https://example.com/images/fnatic_logo.png"
+      "logoUrl": "https://raw.githubusercontent.com/Afissou/dataset-project-webontwikkeling/refs/heads/main/images/fnatic-logo.png"
     }
   },
   {
@@ -66,7 +66,7 @@
     "age": 22,
     "isActive": true,
     "birthDate": "2002-06-15",
-    "imageUrl": "https://raw.githubusercontent.com/Afissou/dataset-project-webontwikkeling/refs/heads/main/images/player-aspas.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Afissou/dataset-project-webontwikkeling/refs/heads/main/images/player-aspas.png",
     "role": "Duelist",
     "hobbies": ["football", "streaming", "music"],
     "teamId": 103,
@@ -76,7 +76,7 @@
       "region": "Americas",
       "founded": 2019,
       "isActive": true,
-      "logoUrl": "https://example.com/images/loud_logo.png"
+      "logoUrl": "https://raw.githubusercontent.com/Afissou/dataset-project-webontwikkeling/refs/heads/main/images/loud-logo.png"
     }
   },
   {
@@ -86,7 +86,7 @@
     "age": 27,
     "isActive": true,
     "birthDate": "1997-03-18",
-    "imageUrl": "https://example.com/images/saadhak.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Afissou/dataset-project-webontwikkeling/refs/heads/main/images/player-saadhak.png",
     "role": "Initiator",
     "hobbies": ["analysis", "team strategy", "reading"],
     "teamId": 103,
@@ -96,7 +96,7 @@
       "region": "Americas",
       "founded": 2019,
       "isActive": true,
-      "logoUrl": "https://example.com/images/loud_logo.png"
+      "logoUrl": "https://raw.githubusercontent.com/Afissou/dataset-project-webontwikkeling/refs/heads/main/images/loud-logo.png"
     }
   },
   {
@@ -106,7 +106,7 @@
     "age": 24,
     "isActive": true,
     "birthDate": "2002-01-11",
-    "imageUrl": "https://example.com/images/faker_val.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Afissou/dataset-project-webontwikkeling/refs/heads/main/images/player-jdfaker.png",
     "role": "Sentinel",
     "hobbies": ["chess", "coding", "FPS games"],
     "teamId": 104,
@@ -116,7 +116,7 @@
       "region": "Pacific",
       "founded": 2020,
       "isActive": true,
-      "logoUrl": "https://example.com/images/prx_logo.png"
+      "logoUrl": "https://raw.githubusercontent.com/Afissou/dataset-project-webontwikkeling/refs/heads/main/images/paper-rex-logo.png"
     }
   },
   {
@@ -126,7 +126,7 @@
     "age": 22,
     "isActive": true,
     "birthDate": "2003-07-05",
-    "imageUrl": "https://example.com/images/jinggg.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Afissou/dataset-project-webontwikkeling/refs/heads/main/images/player-jinggg.jpeg",
     "role": "Duelist",
     "hobbies": ["basketball", "ranked grind", "music"],
     "teamId": 104,
@@ -136,7 +136,7 @@
       "region": "Pacific",
       "founded": 2020,
       "isActive": true,
-      "logoUrl": "https://example.com/images/prx_logo.png"
+      "logoUrl": "https://raw.githubusercontent.com/Afissou/dataset-project-webontwikkeling/refs/heads/main/images/paper-rex-logo.png"
     }
   },
   {
@@ -146,7 +146,7 @@
     "age": 24,
     "isActive": true,
     "birthDate": "2001-08-16",
-    "imageUrl": "https://example.com/images/chronicle.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Afissou/dataset-project-webontwikkeling/refs/heads/main/images/player-chronicle.jpeg",
     "role": "Flex",
     "hobbies": ["piano", "strategy games", "gym"],
     "teamId": 102,
@@ -156,7 +156,7 @@
       "region": "EMEA",
       "founded": 2004,
       "isActive": true,
-      "logoUrl": "https://example.com/images/fnatic_logo.png"
+      "logoUrl": "https://raw.githubusercontent.com/Afissou/dataset-project-webontwikkeling/refs/heads/main/images/fnatic-logo.png"
     }
   },
   {
@@ -166,7 +166,7 @@
     "age": 20,
     "isActive": true,
     "birthDate": "2004-03-03",
-    "imageUrl": "https://example.com/images/kangkang.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Afissou/dataset-project-webontwikkeling/refs/heads/main/images/player-zmjjkk.jpeg",
     "role": "Duelist",
     "hobbies": ["streaming", "sniping", "fashion"],
     "teamId": 105,
@@ -176,7 +176,7 @@
       "region": "China",
       "founded": 2013,
       "isActive": true,
-      "logoUrl": "https://example.com/images/edg_logo.png"
+      "logoUrl": "https://raw.githubusercontent.com/Afissou/dataset-project-webontwikkeling/refs/heads/main/images/edward-gaming-logo.png"
     }
   },
   {
@@ -186,7 +186,7 @@
     "age": 23,
     "isActive": true,
     "birthDate": "2002-02-01",
-    "imageUrl": "https://example.com/images/nats.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Afissou/dataset-project-webontwikkeling/refs/heads/main/images/player-nats.jpeg",
     "role": "Sentinel",
     "hobbies": ["analysis", "hiking", "movies"],
     "teamId": 101,
@@ -196,7 +196,7 @@
       "region": "Americas",
       "founded": 2020,
       "isActive": true,
-      "logoUrl": "https://example.com/images/sentinels_logo.png"
+      "logoUrl": "https://raw.githubusercontent.com/Afissou/dataset-project-webontwikkeling/refs/heads/main/images/sentinels-logo.png"
     }
   }
 ]
